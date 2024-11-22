@@ -4,3 +4,4 @@ SpeechRecognition==3.10.0
 streamlit-webrtc==0.47.1
 setuptools>=69.0.2
 wheel>=0.42.0
+distutils-extra>=2.39
